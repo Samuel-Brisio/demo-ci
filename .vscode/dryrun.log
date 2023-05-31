@@ -1,5 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/grad/ccomp/21/samuelbrisio/Documents/Engenharia_Software/TP2/Atividade_4/demo-ci'
-mvn package
-make: Leaving directory '/home/grad/ccomp/21/samuelbrisio/Documents/Engenharia_Software/TP2/Atividade_4/demo-ci'
- 
